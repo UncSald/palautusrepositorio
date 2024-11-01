@@ -1,2 +1,3 @@
 # palautusrepositorio
-Palautusrepositorio tehtäviä 14-17 varten.
+
+[Ohtuvarasto](https://github.com/UncSald/ohtuvarasto)
