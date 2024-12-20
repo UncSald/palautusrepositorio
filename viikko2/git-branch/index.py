@@ -9,4 +9,6 @@ y = int(input("luku 2: "))
 print(f"{summa(x, y)}")
 print(f"{erotus(x, y)}")
 
-logger("lopetetaan")
+
+logger("lopetetaan ohjelma")
+print("goodbye!") # lisäys bugikorjaus-branchissa
